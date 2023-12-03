@@ -1,0 +1,15 @@
+C:\Users\seraf\OneDrive\Desktop\DigitalTalentsProgram\Portfolio\Portfolio-DigitalTalentsProgram\Auftrag-Mergesort\Mergesort\obj\Debug\net7.0\Mergesort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seraf\OneDrive\Desktop\DigitalTalentsProgram\Portfolio\Portfolio-DigitalTalentsProgram\Auftrag-Mergesort\Mergesort\obj\Debug\net7.0\Mergesort.AssemblyInfoInputs.cache
+C:\Users\seraf\OneDrive\Desktop\DigitalTalentsProgram\Portfolio\Portfolio-DigitalTalentsProgram\Auftrag-Mergesort\Mergesort\obj\Debug\net7.0\Mergesort.AssemblyInfo.cs
+C:\Users\seraf\OneDrive\Desktop\DigitalTalentsProgram\Portfolio\Portfolio-DigitalTalentsProgram\Auftrag-Mergesort\Mergesort\obj\Debug\net7.0\Mergesort.csproj.CoreCompileInputs.cache
+C:\Users\seraf\OneDrive\Desktop\DigitalTalentsProgram\Portfolio\Portfolio-DigitalTalentsProgram\Auftrag-Mergesort\Mergesort\obj\Debug\net7.0\Mergesort.sourcelink.json
+C:\Users\seraf\OneDrive\Desktop\DigitalTalentsProgram\Portfolio\Portfolio-DigitalTalentsProgram\Auftrag-Mergesort\Mergesort\bin\Debug\net7.0\Mergesort.exe
+C:\Users\seraf\OneDrive\Desktop\DigitalTalentsProgram\Portfolio\Portfolio-DigitalTalentsProgram\Auftrag-Mergesort\Mergesort\bin\Debug\net7.0\Mergesort.deps.json
+C:\Users\seraf\OneDrive\Desktop\DigitalTalentsProgram\Portfolio\Portfolio-DigitalTalentsProgram\Auftrag-Mergesort\Mergesort\bin\Debug\net7.0\Mergesort.runtimeconfig.json
+C:\Users\seraf\OneDrive\Desktop\DigitalTalentsProgram\Portfolio\Portfolio-DigitalTalentsProgram\Auftrag-Mergesort\Mergesort\bin\Debug\net7.0\Mergesort.dll
+C:\Users\seraf\OneDrive\Desktop\DigitalTalentsProgram\Portfolio\Portfolio-DigitalTalentsProgram\Auftrag-Mergesort\Mergesort\bin\Debug\net7.0\Mergesort.pdb
+C:\Users\seraf\OneDrive\Desktop\DigitalTalentsProgram\Portfolio\Portfolio-DigitalTalentsProgram\Auftrag-Mergesort\Mergesort\obj\Debug\net7.0\Mergesort.dll
+C:\Users\seraf\OneDrive\Desktop\DigitalTalentsProgram\Portfolio\Portfolio-DigitalTalentsProgram\Auftrag-Mergesort\Mergesort\obj\Debug\net7.0\refint\Mergesort.dll
+C:\Users\seraf\OneDrive\Desktop\DigitalTalentsProgram\Portfolio\Portfolio-DigitalTalentsProgram\Auftrag-Mergesort\Mergesort\obj\Debug\net7.0\Mergesort.pdb
+C:\Users\seraf\OneDrive\Desktop\DigitalTalentsProgram\Portfolio\Portfolio-DigitalTalentsProgram\Auftrag-Mergesort\Mergesort\obj\Debug\net7.0\Mergesort.genruntimeconfig.cache
+C:\Users\seraf\OneDrive\Desktop\DigitalTalentsProgram\Portfolio\Portfolio-DigitalTalentsProgram\Auftrag-Mergesort\Mergesort\obj\Debug\net7.0\ref\Mergesort.dll
